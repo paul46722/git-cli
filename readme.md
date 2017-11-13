@@ -1,0 +1,1 @@
+This is a test of using git on the command line.
